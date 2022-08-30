@@ -1,0 +1,22 @@
+{
+  "name": "burger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceitação do app BurgerEacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "web",
+    "cypress"
+  ],
+  "author": "Henrique Vazquez",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "cypress": "^10.6.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "5.5.3",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}

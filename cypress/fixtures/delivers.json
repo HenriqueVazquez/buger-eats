@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Henrique Vazquez",
+    "cpf": "00496755080",
+    "email": "henrique@teste.com",
+    "whatsapp": "11981803974",
+    "address": {
+      "postalcode": "07084190",
+      "street": "Rua Hanne El Khouri",
+      "number": 500,
+      "details": "casa 44",
+      "district": "Parque Continental II",
+      "city_state": "Guarulhos/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Karen Tatiane",
+    "cpf": "004967550aa",
+    "email": "Karen@teste.com",
+    "whatsapp": "1187459812",
+    "address": {
+      "postalcode": "07084190",
+      "street": "Rua Hanne El Khouri",
+      "number": 500,
+      "details": "casa 44",
+      "district": "Parque Continental II",
+      "city_state": "Guarulhos/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Henrique Vazquez",
+    "cpf": "00496755080",
+    "email": "henrique.com",
+    "whatsapp": "11981803974",
+    "address": {
+      "postalcode": "07084190",
+      "street": "Rua Hanne El Khouri",
+      "number": 500,
+      "details": "casa 44",
+      "district": "Parque Continental II",
+      "city_state": "Guarulhos/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
